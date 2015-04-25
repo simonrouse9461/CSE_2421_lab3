@@ -1,0 +1,9 @@
+CSE 2421
+lab3
+Name: Chuhan Feng
+Time taken: 6 hr
+Problems encountered:
+The problem I encountered this time was that I didn't distinguish clearly
+the difference between '.' sign and '->' sign when I used struct. I finally
+understood that '->' should be used with struct pointer, and '.' should be
+used with the struct itself.
